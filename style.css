@@ -1,0 +1,12 @@
+div{
+    height: 200px;
+    border: 1px solid black;
+    
+}
+.one{
+    /* position: sticky; */
+    /* top: 2px; */
+    background-color: red;
+    width: 540px;
+    
+}
